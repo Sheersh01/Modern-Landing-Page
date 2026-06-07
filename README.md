@@ -23,4 +23,4 @@ To view the project locally:
 3. No build tools or package managers are required!
 
 ## 📸 Preview
-*(You can add a screenshot or GIF of your landing page here)*
+![Preview](image.png)
